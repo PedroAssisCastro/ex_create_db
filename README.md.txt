@@ -1,0 +1,1 @@
+# Repositório de códigos dos comandos DDL de Banco de Dados.
